@@ -13,4 +13,8 @@ Caps è mappato su Backspace.
 
 ## Installazione
 
-Per utilizzare Colemak-IT occorre scaricare il programma PKL a [questo indirizzo](http://pkl.sourceforge.net/). 
+Per utilizzare Colemak-IT occorre scaricare il programma PKL a [questo indirizzo](http://pkl.sourceforge.net/), e copiare la cartella Colemak-IT nella cartella layouts. Aggiungere poi al file _pkl.ini_, alla voce `layout`, il nome della cartella. 
+
+## Licenza
+
+Public Domain
